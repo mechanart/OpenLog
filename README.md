@@ -12,8 +12,10 @@ License Information
 The hardware design and firmware are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
 The FAT16/FAT32 firmware was originally designed by Roland Riegel and is released under [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html).  
 OpenLog v2.0 and above uses sdfatlib written by Bill Greiman and is released under [GPL v3](http://www.gnu.org/licenses/gpl-3.0.html).  
-The OpenLog firmware was created by SparkFun Electronics, and is open source so please feel free to do anything you want with it; 
+The OpenLog firmware was originally created by SparkFun Electronics, and is open source so please feel free to do anything you want with it; 
 you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+
+Mechanart Industries has added functionality to drive a bubble display. 
 
 Repository Contents
 -------------------
